@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://your-quiet-room.vercel.app/">
+<a href="[https://your-quiet-room.vercel.app/](https://github-readme-orcin.vercel.app/)">
   <img src="./assets/room.svg" width="100%" alt="the quiet room — a pixel cat, a rubber duck, and an agent that asks first" />
 </a>
 
