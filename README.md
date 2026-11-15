@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="[https://your-quiet-room.vercel.app/](https://github-readme-orcin.vercel.app/)">
+<a href="https://your-quiet-room.vercel.app/">
   <img src="./assets/room.svg" width="100%" alt="the quiet room — a pixel cat, a rubber duck, and an agent that asks first" />
 </a>
 
-<sub><code>● the quiet room · 3 residents online · <a href="[https://your-quiet-room.vercel.app/](https://github-readme-orcin.vercel.app/)">enter the room ↗</a></code></sub>
+<sub><code>● the quiet room · 3 residents online · <a href="https://your-quiet-room.vercel.app">enter the room ↗</a></code></sub>
 
-<br /><br />
+<br /><br /> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=60&duration=4000&pause=2000&color=ECE8F6&center=true&vCenter=true&width=720&height=90&lines=pratyush+rastogi" alt="pratyush rastogi" />
 
