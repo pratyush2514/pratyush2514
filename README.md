@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://your-quiet-room.vercel.app/">
-  <img src="./assets/room.svg" width="100%" alt="the quiet room — a pixel cat, a rubber duck, and an agent that asks first" />
+<a href="https://github-readme-orcin.vercel.app/">
+  <img src="./asset/room.svg" width="100%" alt="the quiet room — a pixel cat, a rubber duck, and an agent that asks first" />
 </a>
 
-<sub><code>● the quiet room · 3 residents online · <a href="https://your-quiet-room.vercel.app">enter the room ↗</a></code></sub>
+<sub><code>● the quiet room · 3 residents online · <a href="https://github-readme-orcin.vercel.app/">enter the room ↗</a></code></sub>
 
-<br /><br /> 
+<br /><br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=60&duration=4000&pause=2000&color=ECE8F6&center=true&vCenter=true&width=720&height=90&lines=pratyush+rastogi" alt="pratyush rastogi" />
 
@@ -16,6 +16,7 @@
 
 <br /><br />
 
+[![enter the room](https://img.shields.io/badge/enter_the_quiet_room-↗-8B5CF6?style=flat-square&labelColor=110F1A)](https://github-readme-orcin.vercel.app/)
 [![portfolio](https://img.shields.io/badge/portfolio-↗-C4B5FD?style=flat-square&labelColor=110F1A)](https://pratyush-dev-one.vercel.app/)
 [![x](https://img.shields.io/badge/x-@Pratyusshmd-FDBA8C?style=flat-square&labelColor=110F1A)](https://x.com/Pratyusshmd)
 [![linkedin](https://img.shields.io/badge/linkedin-pratyushrastogi05-7EF0D4?style=flat-square&labelColor=110F1A)](https://linkedin.com/in/pratyushrastogi05)
@@ -46,7 +47,9 @@ systems that intercept, classify, and hold, then wait for a human before the irr
 + backstop: the table lives another day.
 ~~~
 
-<br />
+<sub>want to press the buttons yourself? <a href="https://github-readme-orcin.vercel.app/">try the live gate ↗</a></sub>
+
+<br /><br />
 
 ### currently shipping &nbsp;<sub><code>03</code></sub>
 
@@ -127,6 +130,6 @@ on [x](https://x.com/Pratyusshmd) you'll find the other half: the design notes, 
 
 <sub><code>the cat is still on the keyboard.</code></sub>
 
-[portfolio](https://pratyush-dev-one.vercel.app/) · [x](https://x.com/Pratyusshmd) · [linkedin](https://linkedin.com/in/pratyushrastogi05)
+[the quiet room](https://github-readme-orcin.vercel.app/) · [portfolio](https://pratyush-dev-one.vercel.app/) · [x](https://x.com/Pratyusshmd) · [linkedin](https://linkedin.com/in/pratyushrastogi05)
 
 </div>
