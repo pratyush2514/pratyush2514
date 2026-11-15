@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="./banner.jpg" width="100%" alt="TV-head banner showing GitHub and X profiles broadcast through static" />
+<img src="./banner.gif" width="100%" alt="Dithered ASCII-style animated banner — view from a dark interior toward a bright landscape" />
 
 </div>
 
