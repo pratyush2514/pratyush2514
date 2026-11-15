@@ -4,7 +4,7 @@
   <img src="./assets/room.svg" width="100%" alt="the quiet room — a pixel cat, a rubber duck, and an agent that asks first" />
 </a>
 
-<sub><code>● the quiet room · 3 residents online · <a href="https://your-quiet-room.vercel.app/">enter the room ↗</a></code></sub>
+<sub><code>● the quiet room · 3 residents online · <a href="[https://your-quiet-room.vercel.app/](https://github-readme-orcin.vercel.app/)">enter the room ↗</a></code></sub>
 
 <br /><br />
 
